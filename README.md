@@ -59,6 +59,7 @@ The following examples aim to be demonstrative and can be either improved or upd
 
 * [
 Verdaccio examples for Google Cloud and K8s setups. https://github.com/papezt/verdaccio-examples](https://github.com/papezt/verdaccio-examples)
+* [Verdaccio on OpenShift: Running the verdaccio registry server in OpenShift and building customized verdaccio registries with S2I](https://github.com/erikerlandson/verdaccio-openshift)
 
 
 ### Articles
